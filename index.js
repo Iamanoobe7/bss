@@ -33867,8 +33867,8 @@ function BeeSwarmSimulator(DATA){
             updateBeesmasTree()
         }
 
-        items.starEgg.amount=1000
-        items.giftedMythicEgg.amount=1000
+        items.starEgg.amount=10000
+        items.giftedMythicEgg.amount=10000
         items.treat.amount=1000000000000
         items.ticket.amount=1000000000000
         player.updateInventory()
@@ -34763,5 +34763,6 @@ function BeeSwarmSimulator(DATA){
     
 
 }
+
 
 
