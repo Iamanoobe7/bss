@@ -24444,11 +24444,10 @@ function BeeSwarmSimulator(DATA){
         }
         
         out.currentGear={
-            
-            tool:'petalWand',
+            tool:'darkScythe',
             boots:'gummyBoots',
             belt:'petalBelt',
-            backpack:'CoconutCanister',
+            backpack:'coconutCanister',
             mask:'demonMask',
             leftGuard:'crimsonGuard',
             rightGuard:'cobaltGuard',
@@ -34763,6 +34762,7 @@ function BeeSwarmSimulator(DATA){
     
 
 }
+
 
 
 
